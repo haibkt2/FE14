@@ -1,0 +1,14 @@
+body {
+    font-family: arial, sans-serif;
+}
+#main{
+    width: 300px;
+    padding: lem;
+}
+#copyrght {
+    font-size: 75%;
+     text-align: right;
+}
+.base_color {
+    color : blue;
+}
