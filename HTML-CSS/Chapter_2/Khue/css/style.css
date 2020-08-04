@@ -1,0 +1,18 @@
+/* Styling for whole body */
+body {
+  font-family: Arial, sans-serif;
+}
+/* Styling for body element */
+#main {
+  width: 300px;
+  padding: 1em;
+}
+/* Styling for copyright */
+#copyright {
+  font-size: 75%;
+  text-align: right;
+}
+/* styling for barecolor */
+.bare_color {
+  color: blue;
+}
