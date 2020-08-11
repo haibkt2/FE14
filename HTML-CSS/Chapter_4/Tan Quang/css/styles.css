@@ -1,0 +1,53 @@
+/* the styles for the elements */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+}
+
+p {
+    text-align: justify;
+}
+/* the styles for the header */
+
+header img {
+    float: left;
+}
+
+header h1 {
+    color: #800000;    
+    text-indent: 30px;
+}
+
+header h3 {
+    font-style: italic;
+    text-indent: 30px;
+}
+.text-shadow {
+    text-shadow: 1px 2px 1px #800000;
+}
+
+/* the styles for the main */
+
+main article h3 {
+    font-size: 130%;
+    color: #800000;
+}
+
+.quote {
+    text-align: center;
+}
+
+.guest-list {
+    padding-left: 0;
+    font-weight: bold;
+    list-style: none;
+}
+
+.guest-profile a {
+    display: block;
+}
+/* the styles for the footer */
+
+footer p {
+    text-align: center;
+}

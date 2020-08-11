@@ -1,0 +1,23 @@
+header #img1{
+    margin-right: 50px;
+    float: left;
+}
+header h1, .h21 {
+    color: #800000;
+}
+span{
+    text-shadow: 1px -2px 2px #800000;
+}
+#h22, h3, .speaker{
+    color: #003366;
+}
+q{
+    margin-left: 50px;
+}
+figcaption, .h21, .h22{
+    margin:0;
+    padding: 0;
+}
+footer{
+    text-align: center;
+}
