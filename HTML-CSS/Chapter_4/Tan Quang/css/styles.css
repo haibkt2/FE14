@@ -37,14 +37,14 @@ main article h3 {
     text-align: center;
 }
 
-.guest-list {
-    padding-left: 0;
+.guest-profile  p {
     font-weight: bold;
-    list-style: none;
 }
 
 .guest-profile a {
     display: block;
+    font-weight: bold;
+    margin-bottom: 20px;
 }
 /* the styles for the footer */
 
