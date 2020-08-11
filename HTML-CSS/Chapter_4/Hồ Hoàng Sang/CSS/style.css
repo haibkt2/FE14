@@ -1,0 +1,30 @@
+/*Control phần Header */
+header img{
+    height: 100px;
+    width: 100px;
+    float: left;
+}
+header h2{
+    color: #990000;
+}
+header p{
+    font-weight: bolder;
+}
+header b{
+    text-shadow:2px 2px 3px #990000;
+}
+/*Control phần Main */
+main h3,h4{
+    color: #990000;
+}
+section.speakers img{
+    height: 100px;
+    width: 100px;
+}
+main p.quote{
+    text-indent: 2em;
+}
+/*Control phần Footer */
+footer p{
+    text-align: center;
+}
