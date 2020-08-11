@@ -17,7 +17,7 @@ header b{
 main h3,h4{
     color: #990000;
 }
-section.speakers img{
+nav.speakers img{
     height: 100px;
     width: 100px;
 }
