@@ -1,0 +1,75 @@
+/* Control phần Body */
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    border:3px solid #990000;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+/*Control phần Header */
+header{
+    border-bottom: 3px solid #990000;
+    background-image: -webkit-linear-gradient(60deg, #ffcc66 0%, white 30%, white 80%, #ffcc66
+100%);
+}
+header img{
+    height: 100px;
+    width: 100px;
+    float: left;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
+header h2{
+    font-size: 2.2em;
+    color: #990000;
+    margin-top: 0px;
+    padding-top: 20px;
+    margin-bottom: 0px;
+}
+header p{
+    font-style: italic;
+    font-size: 1.5em;
+    font-weight: bolder;
+    padding-bottom: 10px;
+    margin-top: 0px;
+}
+header b{
+    text-shadow:2px 2px 3px #990000;
+}
+/*Control phần Main */
+main{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+main h4{
+    font-size: 1.5em;
+    color: #990000;
+    margin: 0px;
+}
+nav.speakers img{
+    height: 100px;
+    width: 100px;
+}
+nav.speakers h2{
+    font-size: 1.8em;
+    border-top:3px solid #990000;
+    border-bottom: 3px solid #990000;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+main p.quote{
+    font-style: italic;
+    padding-left: 30px;
+}
+main a{
+    font-weight: bolder;
+}
+/*Control phần Footer */
+footer p{
+    text-align: center;
+    color: white;
+    background-color: #990000;
+    padding: 16px;
+    margin-bottom: 0px;
+}
