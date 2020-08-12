@@ -53,8 +53,7 @@ header h3 {
 /* the styles for the main */
 
 main {
-    padding-left: 30px;
-    padding-right: 30px;
+    padding: 0 30px;
 }
 
 main article h3 {
