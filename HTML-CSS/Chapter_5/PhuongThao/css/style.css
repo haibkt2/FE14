@@ -3,7 +3,7 @@
 }
 body{
     border: 5px solid darkred;
-    margin: 0 300px;
+    margin: 10px 300px;
 }
 /* header */
 header{
@@ -11,7 +11,9 @@ header{
     height: 164px;
     border-bottom: 5px solid darkred;
     padding-left: 20px;
-    background-image: -webkit-linear-gradient(40deg, #ffcc66 0%, white 30%,
+    -moz-background-imgage: background-image;
+    -webkit-background-image: background-image;
+    background-image: linear-gradient(40deg, #ffcc66 0%, white 30%,
     white 70%, #ffcc66 100%);
 }
 header>img{
@@ -64,10 +66,12 @@ nav img{
     width: 70px;
 }
 /* footer */
+footer{
+    height: 50px;
+    background-color: darkred;
+}
 footer>p{
     text-align: center;
-    background-color: darkred;
     color: #e9e9e9;
-    padding: 20px;
-    margin-bottom: 0;
+    padding: 10px 0;
 }
