@@ -1,10 +1,18 @@
 *{
     font-family: Arial, Helvetica, sans-serif;
 }
+body{
+    border: 5px solid darkred;
+    margin: 0 300px;
+}
 /* header */
 header{
     width: auto;
     height: 164px;
+    border-bottom: 5px solid darkred;
+    padding-left: 20px;
+    background-image: -webkit-linear-gradient(40deg, #ffcc66 0%, white 30%,
+    white 70%, #ffcc66 100%);
 }
 header>img{
     width: 150px;
@@ -13,7 +21,6 @@ header>img{
 }
 header div{
     float: left;
-    display: block
 }
 h1{
     color: darkred;
@@ -25,11 +32,21 @@ header span{
     text-shadow: 2px 2px 3px darkred;
 }
 /* main */
+main div{
+    padding-left: 20px;
+}
 main h2{
     color: darkred;
+    padding-left: 20px;
 }
 nav h2{
     color: #000000;
+    border-top: 3px solid darkred;
+    border-bottom: 3px solid darkred;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 0 20px;
+    padding-left: 0px;
 }
 nav a{
     display: block;
@@ -49,4 +66,8 @@ nav img{
 /* footer */
 footer>p{
     text-align: center;
+    background-color: darkred;
+    color: #e9e9e9;
+    padding: 20px;
+    margin-bottom: 0;
 }
