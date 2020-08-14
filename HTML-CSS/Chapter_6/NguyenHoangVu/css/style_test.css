@@ -1,0 +1,48 @@
+
+body {
+    width: 600px;
+    height: 800px;
+    border: 5px solid black;
+    margin: auto;
+}
+
+header {
+    width: 600px;
+    height: 100px;
+    border: 2px solid blue;
+    position: fixed;
+    background-image: linear-gradient(30deg, red 80%, blue 100%, yellow 100%);
+    text-align: center;
+
+}
+
+main {
+    width: 600px;
+    height: 600px;
+    border: 2px solid red;
+    position: relative;
+    top: 99.5px;
+
+}
+
+main aside {
+    width: 150px;
+    float: left;
+    border: 1px solid yellow;
+}
+
+main article {
+    width: 440px;
+    float: right;
+    border: 1px solid yellowgreen ;
+}
+
+footer {
+    width: 600px;
+    height: 92px;
+    border: 2px solid olivedrab;
+    position: relative;
+    top: 100px;
+    text-align: center;
+    color: blue;
+}

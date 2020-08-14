@@ -1,0 +1,48 @@
+
+
+body {
+    width: 70%;
+    margin: 15px auto;
+}
+
+body header, main, footer {
+    width: 80%;
+}
+
+
+header img {
+    float: left;
+    padding: 0 3.75%;
+    margin-top: 20px;
+}
+
+
+main {
+    width: 70%;
+}
+
+main aside{
+    width: 20%;
+    height: 10px;
+    float: left;
+    padding: 85px;
+}
+
+main article {
+    width: 60%;
+    float:right;
+}
+header {
+    background-image: linear-gradient(45deg,orange ,white,orange);
+    border: 1px solid orangered;
+    padding: 1.5em 0 2.5em;
+    position: fixed;
+}
+
+header img {
+    float: left;
+}
+.img1 {
+    width: 10%;
+    height: 10%;
+}
